@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Navidad\\Desktop\\TAREAS U 2023 SICLO II\\Programacion estructurada\\practicas\\practica 8\\practica8-Nav1dad\\practica8-Nav1dad.csproj": {}
+    "C:\\Users\\Navidad\\Desktop\\practica8-Nav1dad\\practica8-Nav1dad.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Navidad\\Desktop\\TAREAS U 2023 SICLO II\\Programacion estructurada\\practicas\\practica 8\\practica8-Nav1dad\\practica8-Nav1dad.csproj": {
+    "C:\\Users\\Navidad\\Desktop\\practica8-Nav1dad\\practica8-Nav1dad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Navidad\\Desktop\\TAREAS U 2023 SICLO II\\Programacion estructurada\\practicas\\practica 8\\practica8-Nav1dad\\practica8-Nav1dad.csproj",
+        "projectUniqueName": "C:\\Users\\Navidad\\Desktop\\practica8-Nav1dad\\practica8-Nav1dad.csproj",
         "projectName": "practica8-Nav1dad",
-        "projectPath": "C:\\Users\\Navidad\\Desktop\\TAREAS U 2023 SICLO II\\Programacion estructurada\\practicas\\practica 8\\practica8-Nav1dad\\practica8-Nav1dad.csproj",
+        "projectPath": "C:\\Users\\Navidad\\Desktop\\practica8-Nav1dad\\practica8-Nav1dad.csproj",
         "packagesPath": "C:\\Users\\Navidad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Navidad\\Desktop\\TAREAS U 2023 SICLO II\\Programacion estructurada\\practicas\\practica 8\\practica8-Nav1dad\\obj\\",
+        "outputPath": "C:\\Users\\Navidad\\Desktop\\practica8-Nav1dad\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Navidad\\AppData\\Roaming\\NuGet\\NuGet.Config"
